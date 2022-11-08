@@ -1,4 +1,6 @@
 // https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+// Time: O(n)
+// Space: O(1)
 class Solution {
     func twoSum(_ numbers: [Int], _ target: Int) -> [Int] {
         var result:[Int] = []
